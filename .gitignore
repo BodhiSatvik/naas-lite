@@ -1,0 +1,7 @@
+# factory runtime: per-ticket worktrees and run files
+.worktrees/
+.factory/
+
+# build output
+/bin/
+/naas-lite
